@@ -1,0 +1,2 @@
+# SessionID
+logowanie te biedniejsze
